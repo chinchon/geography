@@ -28,3 +28,4 @@ window.setInterval(function() {
     IND: colors(Math.random() * 50),
   });
 }, 2000);
+
